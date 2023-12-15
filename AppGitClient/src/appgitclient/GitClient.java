@@ -52,6 +52,6 @@ public class GitClient {
 
     @Override
     public String toString() {
-        return "GitClient{" + "cliente=" + cliente + ", version=" + version + ", ssistemaOper=" + sistemaOper + ", licencia=" + licencia + '}';
+        return "GitClient{" + "cliente=" + cliente + ", version=" + version + ", sistemaOper=" + sistemaOper + ", licencia=" + licencia + '}';
     }
 }
